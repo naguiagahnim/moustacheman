@@ -48,7 +48,7 @@ async def on_message(message) :
                         await message.channel.send("https://tenor.com/view/carti-gif-23132052")
     await client.process_commands(message)
 
-client.run('OTg3MDY4ODM3MTcyMjE1ODA4.GzU95h.qBcdldFX2vCCEmgapyd_mQ6q3vTFB3BsfZhGSk')
+client.run('your token')
 
 
 
